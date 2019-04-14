@@ -1,0 +1,8 @@
+*.sw*
+*~
+.sass-cache/
+.idea/
+build/
+dist/
+node_modules/
+vendor/

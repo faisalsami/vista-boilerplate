@@ -1,0 +1,17 @@
+{
+  "name": "vista-boilerplate",
+  "version": "0.0.1",
+  "devDependencies": {
+    "angular": "~1.5.9",
+    "angular-mocks": "~1.5.9",
+    "angular-aria": "~1.5.9",
+    "angular-ui-router": null,
+    "angular-ui-utils": null,
+    "angular-material": null,
+    "bootstrap": null,
+    "bootstrap-sass": null,
+    "angular-bootstrap": null,
+    "angular-route": "~1.5.9"
+  },
+  "dependencies": {}
+}
